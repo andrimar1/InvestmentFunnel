@@ -1,6 +1,5 @@
 ## load dependencies
 library(testthat)
-library(unpie)
 
 ## test package
-test_check("unpie")
+test_check("InvestmentFunnel")
